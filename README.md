@@ -1,2 +1,4 @@
 # AgeWaterCarbonr
 R code for the model of the Age of Water and Carbon (Duffy et al. 2018)
+Duffy, C. J., Dugan, H. A., & Hanson, P. C. (2018). The age of water and carbon in lake-catchments: A simple dynamical model. Limnology and Oceanography Letters, 3(3), 236–245.
+The entry point is running the script, AgeScenarios.R. The main model code is in AgeOfCarbon.R.  Note that this is a difference version (i.e., not solved numerically) of the dynamics as the system changes toward the new equilibrium. 
